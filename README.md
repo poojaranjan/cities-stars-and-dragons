@@ -14,3 +14,5 @@ Upgrade names are more than just labels. They are part of Ethereum’s journey
 and reflect the people, ideas, and conversations that shape it.
 I hope this book inspires you to imagine what comes next, and to be part of
 Ethereum’s future.
+
+<img width="407" height="447" alt="Screenshot 2026-11-03 at 4 32 39 AM" src="https://github.com/user-attachments/assets/e0c6b3fa-4d9d-4fb3-9aa4-1b42acf81b8b" />
